@@ -1,0 +1,6 @@
+led_ws2813b.c:37:6:led_init	16	static
+led_ws2813b.c:49:6:led_set_all_led_colors	24	static
+led_ws2813b.c:59:6:led_set_one_led_colors	16	static
+led_ws2813b.c:64:6:led_set_colors_data	16	static
+led_ws2813b.c:71:6:led_convert_color_data_to_ws2812b_format	24	static
+led_ws2813b.c:86:6:led_send_led_colors_to_head	8	static
